@@ -1,0 +1,50 @@
+/* First Card */
+.title-head {
+  text-align: center;
+}
+
+.box-widget {
+  box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+  border-radius: 3px;
+}
+
+.profile-head {
+  display: flex;
+  padding: 20px;
+  background-color: #F39C12;
+  border-radius: 3px 3px 0 0;
+}
+
+.image-profile > .image {
+  border-radius: 50%;
+  width: 65px;
+}
+
+.profile-name {
+  width: 100%;
+  margin-left: 20px;
+}
+
+.profile-name > .username {
+  font-family: 'Source Sans Pro';
+  font-size: 25px;
+  color: white;
+  font-weight: 300;
+  margin: 5px 0;
+}
+
+.profile-name > .role {
+  font-family: 'Source Sans Pro';
+  font-size: 15px;
+  color: white;
+  margin-top: 0;
+}
+
+.nav-stacked > li {
+  border-bottom: 1px solid #f4f4f4;
+  margin: 0 !important;
+}
+
+.nav-stacked > li > a  {
+  border-left: 3px solid transparent;
+}
