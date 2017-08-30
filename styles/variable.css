@@ -21,3 +21,11 @@
 .main-fontcolor:hover {
   color: #444;
 }
+
+.bg-black {
+  background-color: #444 !important;
+}
+
+.bg-light-aqua {
+  background-color: #00A7D0;
+}
